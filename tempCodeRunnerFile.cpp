@@ -1,0 +1,1 @@
+long long *a=new long long[N];
